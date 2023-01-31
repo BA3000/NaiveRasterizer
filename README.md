@@ -1,1 +1,1 @@
-# NaiveRasterizer
+# NaiveTracer
